@@ -1,26 +1,6 @@
-# Pet Store
 
-## Configurations
+# Instalacion de dependencias
+Para instalar todas las dependencias del proyecto colocar en la terminal el comando: 'npm i'
 
-Before start you should have installed node or docker
-
-## Installation without docker
-
-```sh
-npm install 
-npm start
-```
-
-Or
-
-```sh
-yarn install
-yarn start
-```
-
-## Installation with docker
-
-```sh
-docker build .
-docker-compose up
-```
+## Inicializacion del proyecto
+Para poder ejecutar el proyecto digital el la terminal los comandos: 'yarn start' o 'npm start'
